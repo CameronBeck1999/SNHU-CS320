@@ -5,7 +5,7 @@ to ensure that function is working the way that is supposed to work. If the test
 us to go back to the drawing board and figure out what went wrong and what worked. Testing is crucuial before we decide to
 give the green light of deployment for the software.
 
-- ** How do I interpret user needs and incorporate them into a program?**
+- **How do I interpret user needs and incorporate them into a program?**
 I interpret the user needs by scooping up all of the necessary requirements that the user(s) ask of us and put them into the
 program by incorporating certain rules via variable declaration, loops, and of course if-else statements to help further
 follow along the user's needs.
